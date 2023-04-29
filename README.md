@@ -4,6 +4,6 @@ This website has a bad fron-end templates because I have been working on the bac
 
 ## Install
 you can install python library in requirements.txt and clone project
-    pip install requirements.txt
-    git clone https://github.com/nothyphen/Pro-Shop.git
+<h4>pip install requirements.txt<h4>
+<h4>git clone https://github.com/nothyphen/Pro-Shop.git</h4>
    
